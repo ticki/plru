@@ -1,6 +1,6 @@
 [package]
 name = "plru"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["ticki <Ticki@users.noreply.github.com>"]
 description = "Implementation of concurrent (lockless) pseudo-LRU cache replacement policy."
 repository = "https://github.com/ticki/plru"
